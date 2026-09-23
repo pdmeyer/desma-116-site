@@ -32,7 +32,7 @@ menu:
 params:
   description: Site for Sonic Media at UCLA | DMA Fall 2026
   navbar:
-    displayTitle: false
+    displayTitle: true
     displayLogo: false
 
   footer:

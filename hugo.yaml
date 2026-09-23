@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: DESMA 116 Fall 2026
 
 # import hextra as module
 module:
@@ -11,6 +11,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      hardWraps: true
 
   # enable hextra syntax highlight
   highlight:
@@ -18,39 +19,33 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Syllabus
+      pageRef: /syllabus
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Assignments
+      pageRef: /assignments
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Resources
+      pageRef: /resources
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
+  description: Site for Sonic Media at UCLA | DMA Fall 2026
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: false
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
+    # base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+  theme:
+    default: system
+    displayToggle: true
+
+  displayUpdatedDate: true
+  dateFormat: "2026-01-01"

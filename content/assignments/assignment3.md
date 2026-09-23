@@ -3,8 +3,6 @@ title: "Assignment 3: Reverse Soundtrack"
 linkTitle: "Assignment 3"
 ---
 
-Assigned Class: Class 5 Due Class: Class 9
-
 In this assignment, you will take a piece of audio and create your own visual
 accompaniment. You can make your visual elements using any technique that you
 like. Like with our writing assignments, we’re trying to capture the ideas,

@@ -116,8 +116,8 @@ means to you, please come see me.
 
 #### Assignments (80% total)
 
-- Assignments 1 and 3: 7.5%
-- Assignments 4 - 6: 10%
+- Assignments 1 - 3: 5% each (15% total)
+- Assignments 4 - 6: 10% each (30% total)
 - Final Project: 35%
 
 #### Assignment Grading Criteria

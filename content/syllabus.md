@@ -199,8 +199,6 @@ Center for Accessible Education](http://www.cae.ucla.edu/) so that we can
 establish reasonable accommodations. After registration, make arrangements with
 me to discuss how to implement these accommodations.
 
-## Assignments
-
 ## Course Schedule
 
 For course schedule, go [here](../schedule)

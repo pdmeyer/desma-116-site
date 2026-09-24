@@ -161,10 +161,12 @@ Failing grade for the class. Certain extenuating circumstances (such as a
 prolonged illness) that prevent completion of a final project may result in an
 Incomplete grade.
 
-**Tardiness** There will be a 10 minute grace period after the starting time of
-the class. For example: Our class starts at 2. You will be marked late if you
-arrive between 2:10 and 2:20pm. You will be marked absent If you arrive after
-2:20pm. Three late marks equate to one absence
+**Tardiness** There will be a 5 minute grace period after the starting time of
+the class. Arriving within this grace period is considered on time. Arriving
+between 5 and 20 minutes late is considered "late" for grading purposes.
+Arriving more than 20 minutes late is considered an absence. Three late marks
+equate to one absence. Exceptions are granted only if you contact me. If you
+think you might be late for class, send an email!
 
 ## Context
 

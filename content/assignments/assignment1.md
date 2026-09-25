@@ -3,6 +3,11 @@ title: "Assignment 1: Focused Listening"
 linkTitle: "Assignment 1"
 ---
 
+## Read
+
+- Brian Eno, liner notes from _Discreet Music_ (1975) <https://drive.google.com/file/d/1fakm6Aztm_rD23GOjAjhWeMu91is2Afz/view>
+- R Murray Schafer, "The Music of the Environment" <https://drive.google.com/drive/folders/1YmMqmIoDcXT_cRMlvtBAz2M74L5Otcul>
+
 ## Watch
 
 - Annea Lockwood, “Living by ear” (Lecture)

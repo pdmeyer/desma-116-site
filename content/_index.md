@@ -19,5 +19,5 @@ cover: "img/field_searanch.jpg"
 {{< card link="schedule" title="Schedule" icon="calendar" >}}
 {{< card link="assignments" title="Assignments" icon="pencil-alt" >}}
 {{< card link="<https://drive.google.com/drive/folders/188lOGAjp0zY80gEe-PjdlwD4kL35hD1B?usp=drive_link>" title="Drive" icon="cloud" >}}
-{{< card link="<https://docs.google.com/forms/d/1TxXzkpNjNY4JF_BS68l5lhQSB4ZQgrW0dXVMaO9F_hM/edit?usp=drive_web&ouid=106576273677315914007>" title="Assignment Submission" icon="cloud-upload" >}}
+{{< card link="<https://forms.gle/7Uf5w3y2m3b3xjtA6>" title="Assignment Submission" icon="cloud-upload" >}}
 {{< /cards >}}

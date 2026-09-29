@@ -14,7 +14,6 @@ cover: "img/field_searanch.jpg"
 **Time:** Tues / Thurs 2 - 5
 **Office Hours:** T/Th 1-2 (email first!)e
 
-//prettier-ignore
 {{< cards cols="1">}}
 {{< card link="syllabus" title="Syllabus" icon="document-text" >}}
 {{< card link="schedule" title="Schedule" icon="calendar" >}}

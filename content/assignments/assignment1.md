@@ -21,7 +21,7 @@ exercise.
 Spend at least 30 minutes listening to either:
 
 - Annea Lockwood’s _A Sound Map of the Danube_
-  <https://www.youtube.com/watch?v=qwsnWZ4dwz0&t=1394s>
+  <https://www.youtube.com/watch?v=qwsnWZ4dwz0>
 - Steve Reich's _Come Out_ <https://www.youtube.com/watch?v=0QrZxZzrel8>
 
 **Important: listen on the best pair of headphones you have!**

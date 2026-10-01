@@ -34,6 +34,7 @@ Watching / reading for Class 3
 
 - Christoph Cox, “A Brief History of Sound Art”
   <https://youtu.be/hh_5_CAySXY>
+  - VIDEO NO LONGER AVAILABLE : ( Alternate: <https://www.youtube.com/watch?v=st_fokvi6h4>
   - Playlist to pair with Cox lecture:
     <https://www.youtube.com/playlist?list=PLRynIo54XbFaNK2Gs4UCVW72DUKhL8d89>
 - Neuhaus, Max, “Notes on Place and Moment”

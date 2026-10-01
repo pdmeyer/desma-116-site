@@ -15,10 +15,9 @@ cover: "img/field_searanch.jpg"
 **Office Hours:** T/Th 1-2 (email first!)e
 
 {{< cards cols="1">}}
-{{< card link="syllabus" title="Syllabus" icon="document-text" >}}
 {{< card link="schedule" title="Schedule" icon="calendar" >}}
 {{< card link="assignments" title="Assignments" icon="pencil-alt" >}}
-{{< card link="https://drive.google.com/drive/folders/188lOGAjp0zY80gEe-PjdlwD4kL35hD1B?usp=drive_link" title="Drive" icon="cloud" >}} 
-{{< card link="https://forms.gle/7Uf5w3y2m3b3xjtA6" title="Assignment Submission" icon="cloud-upload" >}}
+{{< card link="<https://drive.google.com/drive/folders/188lOGAjp0zY80gEe-PjdlwD4kL35hD1B?usp=drive_link>" title="Drive" icon="cloud" >}}
+{{< card link="<https://forms.gle/7Uf5w3y2m3b3xjtA6>" title="Assignment Submission" icon="cloud-upload" >}}
+{{< card link="syllabus" title="Syllabus" icon="document-text" >}}
 {{< /cards >}}
-

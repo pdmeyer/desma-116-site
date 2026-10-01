@@ -25,9 +25,12 @@ menu:
     - name: Assignments
       pageRef: /assignments
       weight: 2
+    - name: Classes
+      pageRef: /classes
+      weight: 3
     - name: Resources
       pageRef: /resources
-      weight: 3
+      weight: 4
 
 params:
   description: Site for Sonic Media at UCLA | DMA Fall 2026

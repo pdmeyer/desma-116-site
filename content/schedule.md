@@ -46,10 +46,12 @@ Assignment
 
 ## Class 3 - Thursday, October 1
 
+[Class 3 Notes](/classes/class3_signal-noise.md)
+
 In this class
 
 - Discuss Assignment 1 and sound walk
-- Film screening and audiovisual analysis
+- Signal - noise
 - Check-in on assignment 2 (due Thursday)
 
 Watching / reading for Class 4

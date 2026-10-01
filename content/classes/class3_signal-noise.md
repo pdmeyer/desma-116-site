@@ -12,6 +12,8 @@ title: Class 3 - Signl to Noise
 - [Neuhaus - Notes on Place and Moment](https://www.max-neuhaus.estate/en/sound-works/vectors/moment/notes-on-place-and-moment)
   - [Neuhaus - Times Square](https://www.youtube.com/watch?v=MLU8e8ePa3A)
 - [Henry Fraser - Consecutives](https://www.youtube.com/watch?v=vN8Xgc66UlE)
+- [Adama Diabate](https://www.youtube.com/watch?v=kXXhp_bZvck)
+- [Zawose](https://www.youtube.com/watch?v=bOsGRn5XKp8&list=PLA510D5201CFA4527)
 
 [Sound Art Playlist](https://www.youtube.com/playlist?list=PLRynIo54XbFaNK2Gs4UCVW72DUKhL8d89)
 
@@ -103,3 +105,44 @@ incident - reproduction
 object - atmosphere - implement
 
 preceptual - conceptual - technical
+
+## Assignment 1 Snippets
+
+### Henry
+
+rather than sounding like white noise it might be more akin to high roughness perlin noise.
+
+### Yulissa
+
+the fast paced beat was slowing down my breathing because it felt like it made
+it harder for me to breathe in and out.
+
+After some time, I began to tolerate it more and I started to hear the repeated
+words with a beat in the background, and imagined it as a house music beat or
+song. The
+
+When I focus on one audio, I hear the other audio less and it allows me to hear
+the other components of each one.
+
+### Sahithi
+
+After the loud wind, I perceived the return to bubbling water with a
+significant increase in clarity.
+
+### Jiayi
+
+Another sound brought a much smaller, unusually specific image to mind: a
+wooden bowl filled with water and tiny wooden balls being stirred with a wooden
+spoon. I heard muted, rounded collisions mixed with liquid movement.
+
+By the end, I was curious about how much of that setting came from the
+recording and how much I had supplied myself. The wooden bowl was particularly
+revealing: it was an association I created to describe an unfamiliar sound.
+
+### Paloma
+
+I imagine the water sounds differently based on what surface it is
+contacting. I imagine a rough surface with many rocks would sound vastly
+different compared to a creek with dirt. I also heard splashing that sounded
+human made, like someone running their hands along the water, since the sound
+seemed to be traveling from one side of my headphones to another.

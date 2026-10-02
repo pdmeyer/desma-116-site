@@ -46,7 +46,7 @@ Assignment
 
 ## Class 3 - Thursday, October 1
 
-[Class 3 Notes](/classes/class3_signal-noise.md)
+[Class 3 Notes](/classes/class3_signal-noise)
 
 In this class
 

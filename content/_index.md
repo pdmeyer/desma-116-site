@@ -12,7 +12,7 @@ cover: "img/field_searanch.jpg"
 **Teaching Assistant:** Roxanne Harris
 **Location:** Broad Art Center Room 4230
 **Time:** Tues / Thurs 2 - 5
-**Office Hours:** T/Th 1-2 (email first!)e
+**Office Hours:** T/Th 1-2 (email first!)
 
 {{< cards cols="1">}}
 {{< card link="schedule" title="Schedule" icon="calendar" >}}

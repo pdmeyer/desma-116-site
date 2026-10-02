@@ -70,7 +70,7 @@ Watching / reading for Class 4
 
 Assignments
 
-- [Assignment 3 - Reverse Soundtrack](assignments/assignment3) (due Class 5 - Thursday, October 8)
+- [Assignment 3 - Reverse Soundtrack](assignments/assignment3) (due Class 7 - Thursday, October 15)
 - [Assignment 4a - Sonic Environments](assignments/assignment4a) (due Class 5 - Thursday, October 8)
 
 ## Class 4 - Tuesday, October 6
@@ -92,7 +92,6 @@ Watching for class 5
 
 In this class
 
-- Assignment 3 is due (critique)
 - Assignment 4a is due
 - Listen to assignment 4a samples
 
@@ -122,6 +121,7 @@ Homework for Class 7
 
 In this class
 
+- Assignment 3 is due
 - Basic sound editing, exporting, and file management with Ocen Audio and the
   Universal Category System
 

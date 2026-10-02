@@ -96,13 +96,13 @@ continuums which are always there."
 
 signal - noise
 
-consonant - dissonant
+consonant - dissonant - assonant
 
 intentional - incidental
 
 incident - reproduction
 
-object - atmosphere - implement
+object - atmosphere - implement/tool
 
 preceptual - conceptual - technical
 

@@ -7,8 +7,8 @@ toc: true
 
 **Instructor:** Philip Meyer (he/him)
 
-- <philipmeyer@g.ucla.edu> (after Oct 1)
-- <philip@inter-modal.com> (until Oct 1)
+- <philipmeyer@g.ucla.edu>
+- ~~<philip@inter-modal.com>~
 
 **Teaching Assistant:** Roxanne Harris
 **Location:** Broad Art Center Room 4230

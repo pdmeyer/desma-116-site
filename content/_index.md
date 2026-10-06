@@ -5,8 +5,8 @@ cover: "img/field_searanch.jpg"
 ---
 
 **Instructor:** Philip Meyer
-<philip@inter-modal.com> (until 10/1)
-<philipmeyer@g.ucla.edu> (after 10/1)
+<philipmeyer@g.ucla.edu>
+~~<philip@inter-modal.com>~~
 **Teaching Assistant:** Roxanne Harris
 **Location:** Broad Art Center Room 4230
 **Time:** Tues / Thurs 2 - 5

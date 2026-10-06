@@ -4,8 +4,6 @@ toc: true
 cover: "img/field_searanch.jpg"
 ---
 
-<!-- ![field_searanch.jpg](img/field_searanch.jpg) -->
-
 **Instructor:** Philip Meyer
 <philip@inter-modal.com> (until 10/1)
 <philipmeyer@g.ucla.edu> (after 10/1)

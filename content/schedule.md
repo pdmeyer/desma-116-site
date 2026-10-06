@@ -80,8 +80,7 @@ In this class
 - Assignment 2 is due
 - Discuss assignment 2
 - Studio time for assignment 3
-- Workshop on the basics of field recording
-  - Slides: <https://docs.google.com/presentation/d/1L3EwHta00qJ9kN0OLRjDtPhzJDro0tq8_9Ua41EDcTY/edit?slide=id.g3291e17ed27_2_28slide=id.g3291e17ed27_2_28>
+- Film and sound
 
 Watching for class 5
 
@@ -93,7 +92,8 @@ Watching for class 5
 In this class
 
 - Assignment 4a is due
-- Listen to assignment 4a samples
+- Workshop on the basics of field recording
+  - Slides: <https://docs.google.com/presentation/d/1L3EwHta00qJ9kN0OLRjDtPhzJDro0tq8_9Ua41EDcTY/edit?slide=id.g3291e17ed27_2_28slide=id.g3291e17ed27_2_28>
 
 For Class 6
 

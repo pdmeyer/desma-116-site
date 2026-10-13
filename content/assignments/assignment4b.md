@@ -24,7 +24,3 @@ create 8 field recordings of various types.
 Each recording should be its own WAV file, uploaded to the course server. You
 don’t have to worry about editing these sounds for now - we’ll do that together
 next.
-
-**Separately, make a document:** For each sound, describe where you took the
-recording, when you took it, what equipment you used, and which of the
-qualities above apply to that sound.

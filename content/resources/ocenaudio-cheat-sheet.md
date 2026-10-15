@@ -48,10 +48,16 @@ Shift + CMD + I Invert selection
 While selected:
 
 - Starting the transport will only play the selected section(s)
+- A hovering control pane will allow you to change the volume, zoom to the selection, and more
 - Effects can be applied to the selected sections using the Effect menu
-- Other controls on the waveform viewer appear when a selection has been made
 
 ![ocen_sg.jpg](img/ocen_sg.jpg)
+
+## Effects
+
+This menu contains audio effects that will transform the audio. Effects that you might want to use are:
+
+- Amplitude > Normalize... : Ocen Audio will automatically turn the volume up so that the loudest peak in the audio is at some threshold (e.g. 0dB)
 
 ## Markers and Regions
 

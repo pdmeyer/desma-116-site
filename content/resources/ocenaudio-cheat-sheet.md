@@ -55,3 +55,9 @@ This menu contains audio effects that will transform the audio. Effects that you
 ## Transport
 
 - `Spacebar` to play
+
+## Exporting
+
+Use these export settings:
+
+![export-settings.jpg](img/export-settings.jpg)

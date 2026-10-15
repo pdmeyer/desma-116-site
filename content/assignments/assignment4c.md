@@ -13,3 +13,7 @@ Use the Universal Category System file name convention
 <https://universalcategorysystem.com/>
 
 <https://www.youtube.com/watch?v=COFedloGJeg>
+
+Turn in:
+
+- a 1-minute "sizzle reel" that has all of your sounds one after the other (so that it is easy for me to listen to them!!)

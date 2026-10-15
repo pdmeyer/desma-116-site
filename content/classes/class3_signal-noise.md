@@ -1,5 +1,5 @@
 ---
-title: Class 3 - Signl to Noise
+title: Class 3 - Signal to Noise
 ---
 
 ## Materials

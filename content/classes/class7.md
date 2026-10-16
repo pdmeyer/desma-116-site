@@ -16,3 +16,5 @@ If using studio computer...
 - Get some headphones at the back of the room
 
 Next: find your audio files from last time. Talk to your team and decide who will edit which files (split them into folders or something)
+
+[Ocen Audio Cheatsheet](/resources/ocenaudio-cheat-sheet)

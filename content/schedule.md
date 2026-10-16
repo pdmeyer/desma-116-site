@@ -21,7 +21,7 @@ Reading for Class 2
 
 Assignment
 
-- [Assignment 1 - Focused Listening](assignments/assignment1) (due Class 2, September 29)
+- [Assignment 1 - Focused Listening](/assignments/assignment1) (due Class 2, September 29)
 
 ## Class 2 - Tuesday, September 29
 
@@ -42,11 +42,11 @@ Watching / reading for Class 3
 
 Assignment
 
-- [Assignment 2 - Sound Survey](assignments/assignment2) (Due Class 4 - Tuesday, October 6)
+- [Assignment 2 - Sound Survey](/assignments/assignment2) (Due Class 4 - Tuesday, October 6)
 
 ## Class 3 - Thursday, October 1
 
-[Class 3 Notes](/classes/class3_signal-noise)
+[Class 3 Notes](/classes/class3)
 
 In this class
 
@@ -70,8 +70,8 @@ Watching / reading for Class 4
 
 Assignments
 
-- [Assignment 3 - Reverse Soundtrack](assignments/assignment3) (due Class 7 - Thursday, October 15)
-- [Assignment 4a - Sonic Environments](assignments/assignment4a) (due Class 5 - Thursday, October 8)
+- [Assignment 3 - Reverse Soundtrack](/assignments/assignment3) (due Class 7 - Thursday, October 15)
+- [Assignment 4a - Sonic Environments](/assignments/assignment4a) (due Class 5 - Thursday, October 8)
 
 ## Class 4 - Tuesday, October 6
 
@@ -103,7 +103,7 @@ For Class 6
 
 Assignment
 
-- [Assignment 4b - Field Recording](assignments/assignment4b) (due Thursday, October 15)
+- [Assignment 4b - Field Recording](/assignments/assignment4b) (due Thursday, October 15)
 
 ## Class 6 - Tuesday, October 13
 
@@ -119,6 +119,9 @@ Homework for Class 7
 
 ## Class 7 - Thursday, October 15
 
+[Class 7 Notes](/classes/class7)
+[Ocen Audio Cheatsheet](/resources/ocenaudio-cheat-sheet)
+
 In this class
 
 - Assignment 3 is due
@@ -127,13 +130,11 @@ In this class
 
 Assignment
 
-- [Assignment 4c - Sound Editing and Labeling](assignments/assigment4c) (due Tuesday, October 20)
-- [Assignment 5a - Sonic Objects](assignments/assignment5a) (due Thursday, October 22)
+- [Assignment 4c - Sound Editing and Labeling](/assignments/assignment4c) (due Thursday, October 22)
 
 Listening for Class 10
 
 - Alvin Lucier, “I Am Sitting in A Room”
-- Steve Reich, “Come Out”
 - Evelyn Glennie, “How to Truly Listen”
   <https://www.youtube.com/watch?v=IU3V6zNER4g>
 
@@ -141,15 +142,18 @@ Listening for Class 10
 
 In this class
 
-- Seminar. Acoustics and psychoacoustics. Frequency, amplitude, reverberation.
-  Tone vs noise. Human hearing, masking. Lecture / demonstration / exercises.
-- Sound editing studio time
+- Assignment 3 critique
+- Sound editing studio time (if schedule permits)
+
+Assignment
+
+- [Assignment 5a - Sonic Objects](/assignments/assignment5a) (due Thursday, October 22)
 
 Reading for Class 9
 
 - Lewis, G.W., and E.G. Makala. Traditional Musical Instruments of Tanzania.
   CreateSpace Independent Publishing Platform, 2016.
-  \-<https://drive.google.com/drive/folders/1YmMqmIoDcXT_cRMlvtBAz2M74L5Otcul>
+  \-<https://drive.google.com/file/d/1IKY7r8vlY0UmlkSxxvKk94EaWHbEagHX/view?usp=drive_link>
 - <https://www.youtube.com/watch?v=U_tqB4IZvMk>
 - <https://www.youtube.com/playlist?list=PL76RMiBD2RnRjKO01QhYWUPdsoemUmLhx>
 - <https://www.instagram.com/josh_harmon_/>
@@ -164,7 +168,7 @@ In this class
 
 Assignment
 
-- [Assignment 5b - Physical Sound Design](assignments/assignment5b) (due Tuesday, November 3)
+- [Assignment 5b - Physical Sound Design](/assignments/assignment5b) (due Tuesday, November 3)
 
 ## Class 10 - Tuesday, October 27
 
@@ -175,7 +179,7 @@ In this class
 - Sound design studio time
 - Introduce final project
 
-- [Assignment 7a - Final Project Proposals](assignments/assignment7a) (due Tuesday, November 10)
+- [Assignment 7a - Final Project Proposals](/assignments/assignment7a) (due Tuesday, November 10)
 
 Reading for Class 11
 
@@ -189,7 +193,7 @@ In this class
 
 Assignment
 
-- [Assignment 6a - Composition 1](assignments/assignment6a) (due Tuesday, November 3)
+- [Assignment 6a - Composition 1](/assignments/assignment6a) (due Tuesday, November 3)
 
 ## Class 12 - Tuesday, November 3
 
@@ -203,7 +207,7 @@ In this class
 
 Assignment
 
-- [Assignment 6b - Composition 2](assignments/assignment6b) (due Thursday, November 5)
+- [Assignment 6b - Composition 2](/assignments/assignment6b) (due Thursday, November 5)
 
 ## Class 13 - Thursday, November 5
 
@@ -214,7 +218,7 @@ In this class
 
 Assignment
 
-- [Assignment 6c - Composition 3](assignments/assignment6c) (due Tuesday, November 12)
+- [Assignment 6c - Composition 3](/assignments/assignment6c) (due Tuesday, November 12)
 
 ## Class 14 - Tuesday, November 10
 

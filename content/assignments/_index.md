@@ -13,7 +13,7 @@ cascade:
 {{< card link="assignment3" title="Assignment 3: Reverse Soundtrack" icon="view-grid-add" >}}
 {{< card link="assignment4a" title="Assignment 4a: Sonic Environments" icon="view-grid-add" >}}
 {{< card link="assignment4b" title="Assignment 4b: Field Recording" icon="view-grid-add" >}}
-{{< card link="assignment4c" title="Assignment 4c: Sound Editin" icon="view-grid-add" >}}
+{{< card link="assignment4c" title="Assignment 4c: Sound Editing" icon="view-grid-add" >}}
 {{< card link="assignment5a" title="Assignment 5a: Sonic Objects" icon="view-grid-add" >}}
 {{< card link="assignment5b" title="Assignment 5b: Foley" icon="view-grid-add" >}}
 {{< card link="assignment6a" title="Assignment 6a: Composition 1" icon="view-grid-add" >}}

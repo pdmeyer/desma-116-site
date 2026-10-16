@@ -31,6 +31,9 @@ menu:
     - name: Resources
       pageRef: /resources
       weight: 4
+    - name: Submission
+      pageRef: https://drive.google.com/drive/folders/188lOGAjp0zY80gEe-PjdlwD4kL35hD1B?usp=drive_link
+      weight: 5
 
 params:
   description: Site for Sonic Media at UCLA | DMA Fall 2026

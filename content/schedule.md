@@ -132,12 +132,6 @@ Assignment
 
 - [Assignment 4c - Sound Editing and Labeling](/assignments/assignment4c) (due Thursday, October 22)
 
-Listening for Class 10
-
-- Alvin Lucier, “I Am Sitting in A Room”
-- Evelyn Glennie, “How to Truly Listen”
-  <https://www.youtube.com/watch?v=IU3V6zNER4g>
-
 ## Class 8 - Tuesday, October 20
 
 In this class

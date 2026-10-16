@@ -29,7 +29,7 @@ First, create a new file in Ocen Audio by clicking the `+` at the top of the fil
 
 Use these settings:
 
-![ocen-create-file-settings](img/ocen-file-settings.jpg)
+![ocen-create-file-settings](img/ocen-create-file-settings.jpg)
 
 You will now have a new blank file in your file browser. This will be your sizzle.
 

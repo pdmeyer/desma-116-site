@@ -19,6 +19,8 @@ For each field recording team:
 - Combine your sounds and create a 1 - 3 minute "sizzle reel". Pick your favorite ~10 sounds and include them sequentially in the sizzle reel file. The point is for me to be able to hear the sounds you created/discovered.
 - a 1-minute "sizzle reel" that has all of your sounds one after the other (so that it is easy for me to listen to them!!)
 
+Here is an example sizzle you can use for reference: <https://drive.google.com/file/d/12CcpLVXjlrY3szw52lSLDfe73yIqhsuV/view?usp=drive_link>
+
 ## Creating the Sizzle Reel
 
 First, create a new file in Ocen Audio by clicking the `+` at the top of the file browser:

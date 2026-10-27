@@ -177,7 +177,7 @@ In this class
 
 Studio recording editing assignments spreadsheet: <https://docs.google.com/spreadsheets/d/1RdUtmALV4q5dV3Gw_grDbi2JDkn7gWESwXbA5CbXSo0/edit?gid=0#gid=0>
 
-- [Assignment 7a - Final Project Proposals](/assignments/assignment7a) (due Tuesday, November 10)
+- [Assignment 7a - Final Project Proposals](/assignments/assignment7a) (due Thursday, November 5)
 
 Reading for Class 11
 

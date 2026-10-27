@@ -3,6 +3,8 @@ title: "Assignment 4c: Sound Editing"
 linkTitle: "Assignment 4c"
 ---
 
+10% of grade
+
 Use Ocen Audio to edit your field recordings
 
 Trim the recordings to length, edit out any unwanted items (handling noise,

@@ -160,6 +160,8 @@ In this class
 - Assignment 5a due
 - Foley / sound design in the physical domain.
 
+Today's recordings: <https://www.dropbox.com/scl/fo/t51z7an7rdkjr84785b0k/AJD9rqhJwAgINjQ2LZz-MzY?rlkey=eb7em2one7c3ldo1oe8e01ur2&st=b25h2hql&dl=0>
+
 Assignment
 
 - [Assignment 5b - Physical Sound Design](/assignments/assignment5b) (due Tuesday, November 3)

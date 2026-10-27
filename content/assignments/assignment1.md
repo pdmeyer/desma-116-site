@@ -3,6 +3,8 @@ title: "Assignment 1: Focused Listening"
 linkTitle: "Assignment 1"
 ---
 
+5% of grade
+
 ## Read
 
 - Brian Eno, liner notes from _Discreet Music_ (1975) <https://drive.google.com/file/d/1fakm6Aztm_rD23GOjAjhWeMu91is2Afz/view>

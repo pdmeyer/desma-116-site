@@ -3,6 +3,8 @@ title: "Assignment 2: Sound Survey"
 linkTitle: "Assignment 2"
 ---
 
+5% of grade
+
 Conduct your own sound survey. You will listen to the same scene 3 times (twice
 in person and once to a recording that you made). Each time you listen, you
 will make a written reflection. Finally, you’ll write an analysis on your

@@ -8,6 +8,7 @@ cover: "img/field_searanch.jpg"
 <philipmeyer@g.ucla.edu>
 ~~<philip@inter-modal.com>~~
 **Teaching Assistant:** Roxanne Harris
+<alsoknownasrox@ucla.edu>
 **Location:** Broad Art Center Room 4230
 **Time:** Tues / Thurs 2 - 5
 **Office Hours:** T/Th 1-2 (email first!)

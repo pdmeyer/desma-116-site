@@ -3,15 +3,20 @@
 Ableton Live Reference Manual:
 <https://www.ableton.com/en/live-manual/12/welcome-to-live/#welcome-to-live>
 
-## Audio Setup
+## Initial Setup
 
 Once you've opened Ableton Live 12, set up the audio output.
 
-Go to Live's settings, then to the Audio Tab.
+Go to Live's settings, then to the `Audio` tab.
 
-Configure `Audio Ouptut Device` to the audio output you want to use.
+Configure `Audio Output Device` to the audio output you want to use.
 
 ![settings.jpg](img/ableton/settings.jpg)
+
+Now go to the `Record, Warp, & Launch` tab.
+
+- Loop/Warp Short Samples: Unwarped One Shot
+- Auto-Warp Long Samples: Off
 
 Close the settings.
 

@@ -3,29 +3,53 @@ title: "Assignment 5b: Foley (Physical Sound Design)"
 linkTitle: "Assignment 5b"
 ---
 
-Gather or create objects that you can use to create sounds. Refer to the
-resources on Foley and musical instrument design for inspiration.
+Each person has been assigned some audio files to edit.
 
-- One sound that is smooth
-- One sound that is rough
-- One sound that is blue
-- One sound that is red
-- One sound that is demure
-- One sound that is obnoxious
-- One sound that is round
-- One sound that is square
-- One sound that can be played at different pitches (e.g. high and low… don’t
-  worry about things being in key or being able to play hot cross buns or
-  anything like that)
+The assignments can be found here: <https://docs.google.com/spreadsheets/d/1RdUtmALV4q5dV3Gw_grDbi2JDkn7gWESwXbA5CbXSo0/edit?gid=0#gid=0>
 
-It’s up to you to decide what these words mean - all that matters is for _you_
-to be able to explain why any given sound has any given quality.
+The audio files are here: <https://www.dropbox.com/home/External%20Share/DESMA%20116/F2026/studio-recordings>
 
-Name these files descriptively, using the UCS or another methodology of your
-choosing.
+Your job is to:
 
-**Separately, make a document:** For each sound, describe how you took the
-recording. If possible, include a photograph of the object, and indicate and
-which of the qualities above apply to that sound. It’s ok for multiple
-qualities to apply to each sound. Also note any other qualities that the sounds
-have that are not listed above.
+- Download the file you have been assigned to edit.
+- Open the file in Ocen Audio
+- Identify the unique sounds in the audio file. Export each unique sound as its
+  own audio file.
+- Use a descriptive file name!! Don't by shy to make it long. Try to include
+  all of the keywords that you might search for in the future.
+  - If you want, use the UCS (Universal Category system) in your file name
+- Save your new files to the `_EDITED`` folder the Dropbox.
+- Separately, create a sizzle reel. You are encouraged to use the sounds you
+  edited AND the sounds that your peers edited. Raid the Dropbox!!
+- The sizzle reel should be like the one for Assignment 4, but BETTER. Think
+  about how you are sequencing the sounds - what is exciting, calming, beautiful?
+  Can you experiment with cross fades or other fancy tricks? Can you use sounds
+  to aid the transition from one sonic space or feeling to another?
+
+## Appendix
+
+Universal Category System (UCS)
+<https://docs.google.com/spreadsheets/d/1Slq_-SgPdFSW9srN8MJPp8eGYY_UYV1cILD40rqcsQo/edit?usp=sharing>
+
+UCS file name convention:
+
+```txt
+CHAINMvmt_Chains from Freesbie Golf Hole in Park with Distant Traffic and Railyard_EM272.wav
+^   ^     ^                                                                        ^
+|   |     |                                                                        |
+|   |     Description                                                              Recording device used
+|   |
+|   Minor category (Impact)
+|
+Major category (Ceramic)
+```
+
+Recommended file export settings:
+
+- File format: WAV
+- Sample rate: 48k
+- Bit depth/resolution: 24 bit
+- Audio format: Linear PCM
+- Dithering: Rectangular PDF
+
+Save

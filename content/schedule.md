@@ -196,7 +196,7 @@ Resources:
 
 Assignment
 
-- [Assignment 6a - Composition 1](/assignments/assignment6a) (due Tuesday, November 3)
+- [Assignment 6a - Composition 1](/assignments/assignment6a) (due Thursday, November 5)
 
 ## Class 12 - Tuesday, November 3
 
@@ -210,7 +210,7 @@ In this class
 
 Assignment
 
-- [Assignment 6b - Composition 2](/assignments/assignment6b) (due Thursday, November 5)
+- [Assignment 6b - Composition 2](/assignments/assignment6b) (due Tuesday, November 10)
 
 ## Class 13 - Thursday, November 5
 
@@ -221,7 +221,7 @@ In this class
 
 Assignment
 
-- [Assignment 6c - Composition 3](/assignments/assignment6c) (due Tuesday, November 12)
+- [Assignment 6c - Composition 3](/assignments/assignment6c) (due Thursday, November 14)
 
 ## Class 14 - Tuesday, November 10
 

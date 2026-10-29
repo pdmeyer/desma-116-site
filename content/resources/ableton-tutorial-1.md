@@ -209,4 +209,4 @@ used Collect All and Save, everything should work. If you failed to use Collect
 All and Save, you could end up with some missing files.
 
 > [!IMPORTANT]
-> Always use Collect All and Save to save your project when working on a shared computer.
+> Always use Collect All and Save to save your project when working on a shared computer

@@ -189,6 +189,8 @@ In this class
 
 - Ableton Live workshop 1 - the timeline
 
+Samples: <https://www.dropbox.com/scl/fo/t6yfj3k5nsks83aqgmutm/ANHWX9DSLm91GdWvJzx9kU4?rlkey=ks4y7dby3gicp41kqrj4erxqb&st=0e34hqmy&dl=0>
+
 Assignment
 
 - [Assignment 6a - Composition 1](/assignments/assignment6a) (due Tuesday, November 3)

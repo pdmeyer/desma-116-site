@@ -18,7 +18,9 @@ Now go to the `Record, Warp, & Launch` tab.
 - Loop/Warp Short Samples: Unwarped One Shot
 - Auto-Warp Long Samples: Off
 
-Close the settings.
+These settings tell Live not to try to detect the tempo/BPM of the samples we load in. These default settings might be good if we were making house music...
+
+Close the settings window.
 
 ## Create a new file
 
@@ -182,6 +184,9 @@ Play the audio now to see what happens.
 
 Almost any parameter in Live can be automated! You can even record automations,
 but we'll talk about this another time.
+
+> [!TIP]
+> If you edit a parameter that has automation, it will disable the automation. You'll see that the automation lines are gray. Re-enable all automation, click the icon with the leftward-pointing arrow on it. It will be orange when the session includes disabled automation.
 
 ## Practice
 

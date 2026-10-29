@@ -15,6 +15,10 @@ Configure `Audio Ouptut Device` to the audio output you want to use.
 
 Close the settings.
 
+## Create a new file
+
+Go to File > New Live Set to start with a fresh default session.
+
 ## Views Ableton Live has two views: `Arrangement View` and `Session View`. You
 
 Use the `TAB` key to switch between them.
@@ -127,13 +131,17 @@ bottom-right corner.
 
 ![mixer-view-toggle.jpg](img/ableton/mixer-view-toggle.jpg)
 
-Experiment with the gain fader (volume control) and panning dial to see what happens.
+Experiment with the gain fader (volume control) and panning dial to see what
+happens.
 
-The audio on all of your tracks will be mixed together and sent to the `Main` track on the far right. This is the output that goes to your headphones or speakers.
+The audio on all of your tracks will be mixed together and sent to the `Main`
+track on the far right. This is the output that goes to your headphones or
+speakers.
 
 ## Fading Audio Clips
 
-We can create fade-ins and outs of the audio clips by clicking and dragging on the little handles in the upper-right hand corner of the audio clips.
+We can create fade-ins and outs of the audio clips by clicking and dragging on
+the little handles in the upper-right hand corner of the audio clips.
 
 ![clip-fade-handle-1.jpg](img/ableton/clip-fade-handle-1.jpg)
 ![clip-fade-handle-2.jpg](img/ableton/clip-fade-handle-2.jpg)
@@ -146,24 +154,59 @@ We can also **automate** the movement of the mixer controls.
 
 Let's start by automating the panning.
 
-Right-click on one of the panning dials and select "Show Automation in New Lane".
+Right-click on one of the panning dials and select "Show Automation in New
+Lane".
 
 ![automation-show-menu.jpg](img/ableton/automation-show-menu.jpg)
 
-This creates a new "lane" under the track with a red dotted line in it. The line being dotted tells us that there is no automation on the panning parameter.
+This creates a new "lane" under the track with a red dotted line in it. The
+line being dotted tells us that there is no automation on the panning
+parameter.
 
 ![automation-lane-1.jpg](img/ableton/automation-lane-1.jpg)
 
-Click on the red line to create automation breakpoints. Now, the line is solid, telling us that we are automating this parameter.
+Click on the red line to create automation breakpoints. Now, the line is solid,
+telling us that we are automating this parameter.
 
 ![automation-lane-2.jpg](img/ableton/automation-lane-2.jpg)
 
-The dial also has a red dot on it, telling us that this is an automated parameter.
+The dial also has a red dot on it, telling us that this is an automated
+parameter.
 
 Play the audio now to see what happens.
 
-Almost any parameter in Live can be automated! You can even record automations, but we'll talk about this another time.
+Almost any parameter in Live can be automated! You can even record automations,
+but we'll talk about this another time.
 
 ## Practice
 
-That's the end of this tutorial. See what you can create by adding more tracks, more sounds, and more mixing adjustments and automations.
+See what you can create by adding more tracks, more sounds, and more mixing
+adjustments and automations.
+
+## Saving your work
+
+> [!IMPORTANT]
+> If you don't follow these steps for saving, you're going to be sad in the
+> future.
+
+Since we are using audio files from our library in the session, we need to make
+sure that these files remain linked to the session. There are two ways to do
+this:
+
+- Make sure that the audio files stay in the same place relative to the session
+  (not recommended on a shared computer like the one in the studio!!)
+- Save the files directly to the Ableton project (recommended!)
+
+Go to `File > Collect All and Save`. In the dialog that pops up, select `Yes`
+for all of the categories. Then save to whatever location you like. This
+creates a folder that contains:
+
+- The Ableton Live Set (`.als`)
+- Your samples and other media
+
+Next time you want to open this project, open the `.als` file. As long as you
+used Collect All and Save, everything should work. If you failed to use Collect
+All and Save, you could end up with some missing files.
+
+> [!IMPORTANT]
+> Always use Collect All and Save to save your project when working on a shared computer.

@@ -188,6 +188,10 @@ but we'll talk about this another time.
 > [!TIP]
 > If you edit a parameter that has automation, it will disable the automation. You'll see that the automation lines are gray. Re-enable all automation, click the icon with the leftward-pointing arrow on it. It will be orange when the session includes disabled automation.
 
+> [!TIP]
+> You can toggle the visibility of all automations using this tiny button:
+> ![automation-toggle-visibility.jpg](img/ableton/automation-toggle-visibility.jpg)
+
 ## Practice
 
 See what you can create by adding more tracks, more sounds, and more mixing

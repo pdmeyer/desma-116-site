@@ -3,6 +3,23 @@
 Ableton Live Reference Manual:
 <https://www.ableton.com/en/live-manual/12/welcome-to-live/#welcome-to-live>
 
+## Goals of this tutorial
+
+This tutorial is designed to teach you the basics of creating a sample-based audio composition in Ableton Live. It assumes that you have no experience with Ableton Live.
+
+By the end of this tutorial, you will be able to:
+
+- Configure audio I/O settings in Live
+- Add a folder to Live's File Browser
+- Switch between Session and Arrangement Views
+- Add and adjust clips on the Arrangement View timeline
+- Zoom and navigate the Arrangement View timeline
+- Show the mixer in Arrangement view
+- Making adjustments to track volume and panning using the mixer controls
+- Automate mixing parameters using Live's automation mode
+- Toggle the visibility of automation on and off
+- Override automations and re-enable them.
+
 ## Initial Setup
 
 Once you've opened Ableton Live 12, set up the audio output.
@@ -11,7 +28,7 @@ Go to Live's settings, then to the `Audio` tab.
 
 Configure `Audio Output Device` to the audio output you want to use.
 
-![settings.jpg](img/ableton/settings.jpg)
+![settings.jpg](img/ableton/tut1/settings.jpg)
 
 Now go to the `Record, Warp, & Launch` tab.
 
@@ -34,14 +51,14 @@ Use the `TAB` key to switch between them.
 to see in video editing software. You can arrange clips of audio or MIDI (we'll
 talk about MIDI later) on the timeline and play them back.
 
-![arrangementview.jpg](img/ableton/arrangementview.jpg)
+![arrangementview.jpg](img/ableton/tut1/arrangementview.jpg)
 
 `Session View` has a grid at the top, with a mixing console below it at the
 bottom. The Session View grid can hold audio and MIDI clips, too. But rather
 laying the clips out on a timeline, the grid lets you play the clips in
 whatever order you want.
 
-![sessionview-alltracks.jpg](img/ableton/sessionview-alltracks.jpg)
+![sessionview-alltracks.jpg](img/ableton/tut1/sessionview-alltracks.jpg)
 
 We'll spend most of our time in `Arrangement View`.
 
@@ -57,7 +74,7 @@ In the default, empty Live set, Ableton shows you 7 tracks:
 For now, we will just focus on the Audio Tracks and the Main Track. You can
 delete the others by clicking the track heading and pressing the backspace key.
 
-![audiotracks.jpg](img/ableton/audiotracks.jpg)
+![audiotracks.jpg](img/ableton/tut1/audiotracks.jpg)
 
 Now, you're left with 2 audio tracks. If you're currently in the session view,
 go to the arrangement view by pressing `TAB`.
@@ -74,7 +91,7 @@ folder somewhere on the computer.
 On the upper-left hand corner of the window, there is a button that shows/hides
 the File Browser. Show the browser.
 
-![browserbutton.jpg](img/ableton/browserbutton.jpg)
+![browserbutton.jpg](img/ableton/tut1/browserbutton.jpg)
 
 Now, go to `File > Add Folder to Browser...` and select the folder containing
 your sound files.
@@ -85,13 +102,13 @@ Clicking the folder shows its contents in the browser. Clicking a sound file in
 the browser allows you to audition it. (If it doesn't play, you might need to
 click the little button with the headphones on it next to the waveform.)
 
-![filebrowser.jpg](img/ableton/filebrowser.jpg)
+![filebrowser.jpg](img/ableton/tut1/filebrowser.jpg)
 
 ## Creating your first arrangement
 
 Pick a sound you like, and drag it into the arrangement.
 
-![arrangement-clip-1.jpg](img/ableton/arrangement-clip-1.jpg)
+![arrangement-clip-1.jpg](img/ableton/tut1/arrangement-clip-1.jpg)
 
 You can zoom in and out on the timeline by hovering your cursor on the top of
 the timeline (where the numbers are). You cursor will turn into a magnifying
@@ -111,7 +128,7 @@ Let's make this region loop so that we can let it play continuously. Select a
 region by clicking and dragging along the timeline. Then, press `CMD/CTRL + L`
 or click the loop button in the transport bar at the top of the screen.
 
-![loop-button.jpg](img/ableton/loop-button.jpg)
+![loop-button.jpg](img/ableton/tut1/loop-button.jpg)
 
 Now, if you press play, you'll loop this region.
 
@@ -136,7 +153,7 @@ There are many ways to interact with the mixer in Live.
 Let's enable the full mixer in arrangement view by clicking the button in the
 bottom-right corner.
 
-![mixer-view-toggle.jpg](img/ableton/mixer-view-toggle.jpg)
+![mixer-view-toggle.jpg](img/ableton/tut1/mixer-view-toggle.jpg)
 
 Experiment with the gain fader (volume control) and panning dial to see what
 happens.
@@ -150,8 +167,8 @@ speakers.
 We can create fade-ins and outs of the audio clips by clicking and dragging on
 the little handles in the upper-right hand corner of the audio clips.
 
-![clip-fade-handle-1.jpg](img/ableton/clip-fade-handle-1.jpg)
-![clip-fade-handle-2.jpg](img/ableton/clip-fade-handle-2.jpg)
+![clip-fade-handle-1.jpg](img/ableton/tut1/clip-fade-handle-1.jpg)
+![clip-fade-handle-2.jpg](img/ableton/tut1/clip-fade-handle-2.jpg)
 
 Experiment with this to bring sounds in and out of the mix.
 
@@ -164,18 +181,18 @@ Let's start by automating the panning.
 Right-click on one of the panning dials and select "Show Automation in New
 Lane".
 
-![automation-show-menu.jpg](img/ableton/automation-show-menu.jpg)
+![automation-show-menu.jpg](img/ableton/tut1/automation-show-menu.jpg)
 
 This creates a new "lane" under the track with a red dotted line in it. The
 line being dotted tells us that there is no automation on the panning
 parameter.
 
-![automation-lane-1.jpg](img/ableton/automation-lane-1.jpg)
+![automation-lane-1.jpg](img/ableton/tut1/automation-lane-1.jpg)
 
 Click on the red line to create automation breakpoints. Now, the line is solid,
 telling us that we are automating this parameter.
 
-![automation-lane-2.jpg](img/ableton/automation-lane-2.jpg)
+![automation-lane-2.jpg](img/ableton/tut1/automation-lane-2.jpg)
 
 The dial also has a red dot on it, telling us that this is an automated
 parameter.
@@ -192,7 +209,7 @@ but we'll talk about this another time.
 
 > [!TIP] You can toggle the visibility of all automations using the `a` key on
 > your keyboard or this tiny button:
-> ![automation-lane-2](img/ableton/automation-toggle-visibility.jpg)
+> ![automation-lane-2](img/ableton/tut1/automation-toggle-visibility.jpg)
 
 ## Practice
 

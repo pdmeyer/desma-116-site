@@ -10,7 +10,7 @@ This tutorial is designed to teach you the basics of creating a sample-based aud
 By the end of this tutorial, you will be able to:
 
 - Configure audio I/O settings in Live
-- Add a folder to Live's File Browser
+- Add a folder to Live's Browser
 - Switch between Session and Arrangement Views
 - Add and adjust clips on the Arrangement View timeline
 - Zoom and navigate the Arrangement View timeline
@@ -83,13 +83,13 @@ go to the arrangement view by pressing `TAB`.
 
 > [!TIP] You can create a new track by going to Create > Insert Audio Track
 
-## File browser
+## Browser
 
 Download the sound files you want to use for this project and save them to
 folder somewhere on the computer.
 
 On the upper-left hand corner of the window, there is a button that shows/hides
-the File Browser. Show the browser.
+the Browser. Show the browser.
 
 ![browserbutton.jpg](img/ableton/tut1/browserbutton.jpg)
 
@@ -161,6 +161,13 @@ happens.
 The audio on all of your tracks will be mixed together and sent to the `Main`
 track on the far right. This is the output that goes to your headphones or
 speakers.
+
+## Enabling and Disabling Tracks
+
+While you are working, it can sometimes be helpful to mute an entire track.
+Click yellow button with the track number in it to mute and unmute the track.
+The button below this one, with the `S` on it, is the `Solo` button. This will
+mute all of the other tracks so that the soloed one is the only one you hear.
 
 ## Fading Audio Clips
 

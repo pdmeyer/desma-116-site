@@ -216,32 +216,37 @@ Assignment
 
 In this class
 
-- Feedback on final project proposals (via email)
-- Synthesis part 1
+- Final project proposals are due
+- Listen to assignment 5 sizzles
+- Assignment 6a is due (don't need to turn in)
+- Synthesis part 1 workshop
+  - Basic subtractive synthesis with Ableton Learning Synths
 
 Assignment
 
-- [Assignment 6c - Composition 3](/assignments/assignment6c) (due Thursday, November 14)
+- [Assignment 6c - Composition 3](/assignments/assignment6c) (due Thursday, November 12)
 
 ## Class 14 - Tuesday, November 10
 
 In this class
 
 - Final project proposals due
-- Seminar / Q&A on Ableton
+- Synthesis part 2 workshop
+  - Using MIDI
+  - Synths in Live /class
 
 ## Class 15 - Thursday, November 12
 
 In this class
 
-- Presentations from Philip and Rox about their artistic process in Ableton Live
+- Assignment 6c is due (turn it in!)
 - Present Assignment 6 compositions + crit
 
 ## Class 16 - Tuesday, November 17
 
 In this class
 
-- TBD - likely additional topics in the DAW
+- Rox lecture
 
 ## Class 17 - Thursday, November 19
 

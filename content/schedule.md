@@ -230,7 +230,7 @@ Assignment
 
 In this class
 
-- Final project proposals due
+- Assignment 6b is due
 - Synthesis part 2 workshop
   - Using MIDI
   - Synths in Live /class

@@ -218,10 +218,10 @@ In this class
 
 - Final project proposals are due
 - Listen to assignment 5 sizzles
-  - <https://docs.google.com/spreadsheets/d/1kansPRNfSA6PTeKjVb-yNm3o4RuALR4ZCCfSjZDyQJ0/edit?usp=sharing>
+  - [Links](https://docs.google.com/spreadsheets/d/1kansPRNfSA6PTeKjVb-yNm3o4RuALR4ZCCfSjZDyQJ0/edit?usp=sharing)
 - Assignment 6a is due (don't need to turn in)
 - Synthesis part 1 workshop
-  - Basic subtractive synthesis with Ableton Learning Synths
+  - Basic subtractive synthesis with Ableton Learning Synths. ([Link](/resources/ableton-tutorial-3))
 
 Assignment
 

@@ -1,4 +1,4 @@
-# Ableton Tutorial 2
+# Ableton Tutorial 2 - Audio Effects
 
 ## Prerequisites
 

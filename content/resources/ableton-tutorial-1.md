@@ -1,4 +1,4 @@
-# Ableton Tutorial 1
+# Ableton Tutorial 1 - Basics
 
 Ableton Live Reference Manual:
 <https://www.ableton.com/en/live-manual/12/welcome-to-live/#welcome-to-live>

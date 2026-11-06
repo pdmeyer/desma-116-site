@@ -223,6 +223,10 @@ In this class
 - Synthesis part 1 workshop
   - Basic subtractive synthesis with Ableton Learning Synths. ([Link](/resources/ableton-tutorial-3))
 
+Homework:
+
+- Spend some time on [Learning Synths](https://learningsynths.ableton.com/) and get comfortable with synthesis.
+
 Assignment
 
 - [Assignment 6c - Composition 3](/assignments/assignment6c) (due Thursday, November 12)

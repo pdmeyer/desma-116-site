@@ -236,9 +236,11 @@ Assignment
 In this class
 
 - Assignment 6b is due
+- [Quiz](/classes/class14)
 - Synthesis part 2 [tutorial](/resources/ableton-tutorial-4)
   - Using MIDI
   - Synths in Live /class
+- Final project conferences
 
 ## Class 15 - Thursday, November 12
 

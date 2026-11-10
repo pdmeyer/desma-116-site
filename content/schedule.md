@@ -236,7 +236,7 @@ Assignment
 In this class
 
 - Assignment 6b is due
-- Synthesis part 2 workshop
+- Synthesis part 2 [tutorial](/resources/ableton-tutorial-4)
   - Using MIDI
   - Synths in Live /class
 

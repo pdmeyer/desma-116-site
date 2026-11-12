@@ -246,13 +246,16 @@ In this class
 
 In this class
 
-- Assignment 6c is due (turn it in!)
-- Present Assignment 6 compositions + crit
+- Synthesis part 2 part 2 tutorial
+  - Ableton's drift
+  - Exporting your projects
 
 ## Class 16 - Tuesday, November 17
 
 In this class
 
+- Assignment 6c is due (turn it in!)
+- Present Assignment 6 compositions + crit
 - Rox lecture
 
 ## Class 17 - Thursday, November 19

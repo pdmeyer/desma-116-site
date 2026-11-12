@@ -187,6 +187,16 @@ Now play the synth and you'll hear the low pass filter fluttering in response to
 > [!TIP] Note
 > Earlier in the tutorial, envelope 2 was modulating the same parameter as our LFO (the low pass filter cutoff frequency). Assuming you still have non-zero depth in the `Freq Mod` section of the `Filter`, then you now how have _both_ envelope 2 and the LFO modulating the cutoff frequency. These interactions between multiple modulation sources can lead in very interesting and surprising places. They can also cause you to hear no sound at all, such as if their combination causes the cutoff frequency to be set so low that the sound is inaudible. If you're stuck, try starting over: just grab a fresh instance of Drift from the browser and drag it on to the track.
 
+## Exporting your work
+
+When you are ready to export your work as a stereo audio file, follow these steps:
+
+- Make sure all of the tracks that you want to include are unmuted. The export will reflect the state of your mixer, so muted tracks will not be included in the export.
+- Click and drag on the `Arrangement View` to select the region you want to export.
+- Go to `File > Export Audio/Video...`
+- In the dialog that appears, the default settings are mostly fine. You can switch file type from `AIFF` to `WAV` if you want, but it doesn't really matter. Click export, then wait for it to export.
+- List back to your export to make sure it exported correctly.
+
 ## Going Further
 
 That's it for this tutorial. As you can see, there are a bunch of parameters in Drift we didn't talk about. There are also many other synths in Live! Feel free to explore, and don't forget to use the presets to give yourself a starting point.

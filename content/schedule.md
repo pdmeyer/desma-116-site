@@ -255,14 +255,13 @@ In this class
 In this class
 
 - Assignment 6c is due (turn it in!)
-- Present Assignment 6 compositions + crit
 - Rox lecture
 
 ## Class 17 - Thursday, November 19
 
 In this class
 
-- TBD - likely additional topics in the DAW
+- Present Assignment 6 compositions + crit
 
 ## Class 18 - Tuesday, November 24
 

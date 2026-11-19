@@ -267,6 +267,7 @@ In this class
 
 In this class
 
+- Lecture on digital hygiene
 - Studio time
 - Check ins on final projects
 

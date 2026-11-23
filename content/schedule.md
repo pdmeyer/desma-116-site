@@ -261,6 +261,7 @@ In this class
 
 In this class
 
+- [Class 17](/classes/class17)
 - Present Assignment 6 compositions + crit
 
 ## Class 18 - Tuesday, November 24

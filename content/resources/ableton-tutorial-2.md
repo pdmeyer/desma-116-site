@@ -1,4 +1,9 @@
-# Ableton Tutorial 2 - Audio Effects
+---
+title: Ableton Tutorial 2
+toc: true
+prev: ableton-tutorial-1
+next: ableton-tutorial-3
+---
 
 ## Prerequisites
 

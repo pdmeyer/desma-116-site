@@ -1,4 +1,8 @@
-# Ableton Tutorial 4 - MIDI and Synths in Live
+---
+title: Ableton Tutorial 4
+toc: true
+prev: ableton-tutorial-3
+---
 
 ## About MIDI
 

@@ -269,6 +269,7 @@ In this class
 In this class
 
 - Lecture on digital hygiene
+  - [File Tutorial](/resources/file-tutorial)
 - Studio time
 - Check ins on final projects
 

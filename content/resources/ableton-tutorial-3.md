@@ -1,4 +1,9 @@
-# Ableton Tutorial 3
+---
+title: Ableton Tutorial 3
+toc: true
+next: ableton-tutorial-4
+prev: ableton-tutorial-2
+---
 
 ## Learning Synths
 

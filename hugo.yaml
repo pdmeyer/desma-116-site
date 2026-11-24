@@ -25,9 +25,6 @@ menu:
     - name: Assignments
       pageRef: /assignments
       weight: 2
-    - name: Classes
-      pageRef: /classes
-      weight: 3
     - name: Resources
       pageRef: /resources
       weight: 4
